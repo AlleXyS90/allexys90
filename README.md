@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a target="_blank" href="https://github.com/AlleXyS90">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="auto" height="50px">
+  
 <!--
 **AlleXyS90/allexys90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
