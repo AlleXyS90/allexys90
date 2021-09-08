@@ -3,6 +3,10 @@
 <a target="_blank" href="https://github.com/AlleXyS90">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="auto" height="50px">
   
+  
+[![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=allexys90)](https://github.com/allexys90/github-readme-stats)
+  
+  
 <!--
 **AlleXyS90/allexys90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
