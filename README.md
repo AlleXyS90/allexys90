@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+<a target="_blank" href="https://www.linkedin.com/in/alextudor90/">
+  <img src="https://mpng.subpng.com/20180320/uaw/kisspng-linkedin-logo-clip-art-linkedin-icons-no-attribution-5ab1767fdc0a03.3958049615215796479013.jpg" width="auto" height="50px">
 <a target="_blank" href="https://github.com/AlleXyS90">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="auto" height="50px">
+
   
   
 [![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=allexys90)](https://github.com/allexys90/github-readme-stats)
