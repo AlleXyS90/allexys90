@@ -10,8 +10,8 @@
 [![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=allexys90)](https://github.com/allexys90/github-readme-stats)
   
 
-  ### My stackoverflow stats
-  <a href="https://stackoverflow.com/users/9275568/allexys"><img src="https://stackoverflow.com/users/flair/9275568.png" width="208" height="58" alt="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  ### Stackoverflow stats
+  <a href="https://stackoverflow.com/users/9275568/allexys"><img src="https://stackoverflow.com/users/flair/9275568.png?theme=dark" width="208" height="58" alt="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   
 <!--
 **AlleXyS90/allexys90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
