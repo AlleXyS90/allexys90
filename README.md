@@ -7,8 +7,9 @@
 
   
   
-[![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=allexys90)](https://github.com/allexys90/github-readme-stats)
+[![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlleXyS90)](https://github.com/allexys90/github-readme-stats)
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlleXyS90&theme=tokyonight)
 
   ### Stackoverflow stats
   <a href="https://stackoverflow.com/users/9275568/allexys"><img src="https://stackoverflow.com/users/flair/9275568.png?theme=dark" width="208" height="58" alt="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
