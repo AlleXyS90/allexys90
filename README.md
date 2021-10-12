@@ -8,7 +8,6 @@
   
   
 [![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlleXyS90)](https://github.com/allexys90/github-readme-stats)
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlleXyS90&theme=tokyonight)
 
   ### Stackoverflow stats
