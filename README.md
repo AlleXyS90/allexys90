@@ -1,17 +1,16 @@
 ### Hi there 👋
-
+ 
+<a href="https://stackoverflow.com/users/9275568/allexys"><img src="https://stackoverflow.com/users/flair/9275568.png?theme=dark" width="208" height="58" alt="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <a target="_blank" href="https://www.linkedin.com/in/alextudor90/">
-  <img src="https://mpng.subpng.com/20180320/uaw/kisspng-linkedin-logo-clip-art-linkedin-icons-no-attribution-5ab1767fdc0a03.3958049615215796479013.jpg" width="auto" height="50px">
-<a target="_blank" href="https://github.com/AlleXyS90">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="auto" height="50px">
-
-  
+<img src="https://mpng.subpng.com/20180320/uaw/kisspng-linkedin-logo-clip-art-linkedin-icons-no-attribution-5ab1767fdc0a03.3958049615215796479013.jpg" width="auto" height="50px">
   
 [![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlleXyS90)](https://github.com/allexys90/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlleXyS90&theme=tokyonight)
-
-  ### Stackoverflow stats
-  <a href="https://stackoverflow.com/users/9275568/allexys"><img src="https://stackoverflow.com/users/flair/9275568.png?theme=dark" width="208" height="58" alt="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  
+  ### CodersRank stats
+  <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=allexys90&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
   
 <!--
 **AlleXyS90/allexys90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
