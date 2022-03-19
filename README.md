@@ -1,8 +1,10 @@
 ### Hi there 👋
 <a target="_blank" href="https://www.linkedin.com/in/alextudor90/"> <img src="https://mpng.subpng.com/20180320/uaw/kisspng-linkedin-logo-clip-art-linkedin-icons-no-attribution-5ab1767fdc0a03.3958049615215796479013.jpg" width="auto" height="24px">
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlleXyS90&theme=tokyonight)
- ![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlleXyS90)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlleXyS90&theme=prussian)
+ ![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlleXyS90&theme=algolia)
+ 
  
  StackOverflow | WakaTime
  :-------:|:--------:
