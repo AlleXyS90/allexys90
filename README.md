@@ -1,16 +1,14 @@
 ### Hi there 👋
 <a target="_blank" href="https://www.linkedin.com/in/alextudor90/"> <img src="https://mpng.subpng.com/20180320/uaw/kisspng-linkedin-logo-clip-art-linkedin-icons-no-attribution-5ab1767fdc0a03.3958049615215796479013.jpg" width="auto" height="24px">
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlleXyS90&theme=tokyonight)
+ ![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlleXyS90)
  
-### GitHub
-Stats            |  Langs |
-:-----------------------:|:-------------:
-|![Alexandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlleXyS90) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlleXyS90&theme=tokyonight) | 
- 
- ### Others
  StackOverflow | WakaTime
  :-------:|:--------:
  <a href="https://stackoverflow.com/users/9275568/allexys"><img src="https://stackoverflow.com/users/flair/9275568.png?theme=dark" width="208" height="58" alt="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AlleXyS at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlleXyS&amp;layout=compact" style="max-width: 100%;" /> |
 
+ 
 ### CodersRank Stats
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=allexys90&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
   
