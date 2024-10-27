@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a target="_blank" href="https://www.linkedin.com/in/alextudor90/"> <img src="https://mpng.subpng.com/20180320/uaw/kisspng-linkedin-logo-clip-art-linkedin-icons-no-attribution-5ab1767fdc0a03.3958049615215796479013.jpg" width="auto" height="24px">
+<a target="_blank" href="https://www.linkedin.com/in/alextudor90/"> <img src="https://static.vecteezy.com/system/resources/previews/018/910/721/non_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="auto" height="24px">
 
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlleXyS90&theme=prussian)
